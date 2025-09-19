@@ -1,1 +1,1 @@
-# Latihan_Java-Script
+# Latihan_Java-Script pada web
